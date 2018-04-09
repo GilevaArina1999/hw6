@@ -21,3 +21,4 @@ hw6
 * ![ссылка](https://raw.githubusercontent.com/GilevaArina1999/hw6/master/1111.png)
 * 2) Самые редкие слова - слова на иностранных языках. Чтобы быстрее получить сведения о наиболее редкиз словах нужно сделать инверсию результатов. (Invert Order)
 * ![ссылка](https://raw.githubusercontent.com/GilevaArina1999/hw6/master/2222.png)
+* 3) Контексты слов в произведении. 
