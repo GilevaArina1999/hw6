@@ -20,7 +20,7 @@ hw6
 ![ссылка](https://raw.githubusercontent.com/GilevaArina1999/hw6/master/%D0%B1%D1%83%D1%80%D1%8F.png)
 ![ссылка](https://raw.githubusercontent.com/GilevaArina1999/hw6/master/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0.png)
 ![ссылка](https://raw.githubusercontent.com/GilevaArina1999/hw6/master/%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C.png)
-# N-грамм (Clusters/N-gram → min (2) - max (5)?)
+# N-грамм (Clusters/N-gram → min (2) - max (5)
 * "мир" в "Адском мире"
 * ![ссылка](https://raw.githubusercontent.com/GilevaArina1999/hw6/master/%D0%BC%D0%B8%D1%80.png)
 * "любовь" в "Анне Карениной"
